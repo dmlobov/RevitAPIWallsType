@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPIWallsType", "RevitAPIWallsType.csproj", "{68165120-D8F9-411F-981F-F88817EE89B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviyAPITrainingLibrary", "..\ReviyAPITrainingLibrary\ReviyAPITrainingLibrary.csproj", "{C2CDD412-249C-4421-969F-F1C240F3F99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68165120-D8F9-411F-981F-F88817EE89B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68165120-D8F9-411F-981F-F88817EE89B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68165120-D8F9-411F-981F-F88817EE89B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68165120-D8F9-411F-981F-F88817EE89B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CDD412-249C-4421-969F-F1C240F3F99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CDD412-249C-4421-969F-F1C240F3F99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CDD412-249C-4421-969F-F1C240F3F99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CDD412-249C-4421-969F-F1C240F3F99F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D1E5D3-91A5-4D96-BC58-20CE3CD71637}
+	EndGlobalSection
+EndGlobal
